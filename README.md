@@ -12,13 +12,20 @@ Elle permet aux artistes de publier leurs œuvres et aux utilisateurs de les ach
 - Offrir une gestion complète des comptes, produits, commandes ,forum,événement et paiements.
 - Intégrer une interface d’administration fluide
 
-### Fonctionnalités principales :
-- 🔐 Authentification et gestion des utilisateurs (artistes et acheteurs)
-- 🖼️ Publication d’œuvres d’art avec photos et descriptions
-- 🛒 Système de panier, commande et paiement
-- 📅​ Gestion des événements
-- 💬 Gestion du Forum
-- 📜​ Gestion des réclamations
+## 📝 Description du Projet
+
+**Makeria** est une plateforme hybride (site web Symfony + application desktop JavaFX) développée par un groupe de 6 étudiants. Elle connecte artistes et amateurs d'art dans un environnement sécurisé.
+
+### ✨ Fonctionnalités principales
+| Catégorie        | Fonctionnalités                                                                 |
+|------------------|--------------------------------------------------------------------------------|
+| **Utilisateurs** | 🔐 Inscription/Connexion (Artistes & Acheteurs), Profils personnalisés         |
+| **Œuvres**       | 🖼️ Publication avec galerie photos, descriptions détaillées, système de tags  |
+| **Transactions** | 🛒 Panier, Commandes sécurisées, Paiement en ligne, Historique                 |
+| **Social**       | 💬 Forum de discussion, 📅 Événements artistiques, ✨ Récompenses              |
+| **Admin**        | 📊 Dashboard complet, 🛡️ Gestion des réclamations, 📈 Statistiques            |
+
+---
 
 ## 📚 Table des Matières
 
@@ -33,7 +40,7 @@ Elle permet aux artistes de publier leurs œuvres et aux utilisateurs de les ach
 ---
 ## 🛠️ Installation
 
-### 1. Cloner les deux repository
+1. Cloner les deux repository
 
 ```bash
 git clone https://github.com/abirgmd/3A-SYMFONY-PIDEV-MAKERIA

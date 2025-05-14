@@ -26,11 +26,9 @@ Elle permet aux artistes de publier leurs œuvres et aux utilisateurs de les ach
 
 ## 📚 Table des Matières
 
-- [Installation](#installation)
+- [Installation](#🛠️ Installation)
 - [Utilisation](#utilisation)
-- [Structure du Projet](#structure-du-projet)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Contribution](#contribution)
+- [Contributions](#contribution)
 - [Licence](#licence)
 - [Auteurs](#auteurs)
 
@@ -83,11 +81,11 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
   php ~v
   ```
 ---
-# # Contributions
+## Contributions
 
 Nous remercions tous ceux qui ont contribué à ce projet !
 
-# # Contributeurs
+## Contributeurs
 
 Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités, en corrigeant des bugs ou en améliorant la documentation :
 

@@ -73,14 +73,14 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
    ```
 - Pour **whilenow** , vous pouvez installer PHP via le gestionnaire de paquets. Par exemple, sur Ubuntu :
   ``` bash
-  `~` sudo apt update
-  `~` sudo apt install php
-  `~` ...
+    sudo apt update
+    sudo apt install php
+    ...
   ```
 
 3. Vérifier l'installation de PHP en exécutant la commande suivante dans votre terminal :
   ``` bash
-  `~` php ~v
+  php ~v
   ```
 ---
 

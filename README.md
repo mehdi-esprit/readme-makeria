@@ -37,20 +37,21 @@ Elle permet aux artistes de publier leurs œuvres et aux utilisateurs de les ach
 ---
 ## 🛠️ Installation
 
-1. Cloner les deux repository
+1. Cloner les deux repository :
 
 ```bash
 git clone https://github.com/abirgmd/3A-SYMFONY-PIDEV-MAKERIA
 
 git clone https://github.com/abirgmd/3A-JAVA-PIDEV-MAKERIA
 cd G_P
----
-2. Si vous utilisez WAMP ou XAMPP :
+
+2 Si vous utilisez WAMP ou XAMPP :
 
 Placez le projet dans le dossier www (WAMP) ou htdocs (XAMPP).
 
 Démarrez Apache et MySQL depuis l'interface de WAMP/XAMPP.
 
 Accédez au projet via : http://localhost/phpmyadmin/index.php route=/database/structure&db=pidev
+
 
 

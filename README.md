@@ -54,7 +54,7 @@ cd G_P
 ---
 ## Utilisation
 
-# 💾​ Installation de PHP
+## 💾​ Installation de PHP
 
 Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
 
@@ -81,11 +81,11 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
   php ~v
   ```
 ---
-## Contributions
+# Contributions
 
 Nous remercions tous ceux qui ont contribué à ce projet !
 
-## Contributeurs
+### Contributeurs
 
 Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités, en corrigeant des bugs ou en améliorant la documentation :
 

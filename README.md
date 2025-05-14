@@ -83,4 +83,33 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
   php ~v
   ```
 ---
+# # Contributions
 
+Nous remercions tous ceux qui ont contribué à ce projet !
+
+# # Contributeurs
+
+Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités, en corrigeant des bugs ou en améliorant la documentation :
+
+- [Utilisateur1](https://github.com/abirgmd) - Gestion des produits
+- [Utilisateur2](https://github.com/eeeeyyyya) - Gestion des réclamations
+- [Utilisateur3](https://github.com/mehdi-esprit) Gestion des réclamations.
+- [Utilisateur4](https://github.com/Siwar) - Gestion des événements
+- [Utilisateur5](https://github.com/RahmaD) - Gestion des paiements
+- [Utilisateur6](https://github.com/RahmaS) - Gestion des Users
+
+Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork**, créer une nouvelle branche et soumettre une **pull request**. 
+
+# # Comment contribuer ?
+
+1. **Forkez le projet** : Allez sur la page GitHub du projet et cliquez sur le bouton **Fork** dans le coin supérieur droit pour créer une copie du projet dans votre propre compte GitHub.
+
+2. **Clonez votre fork** : Clonez le fork sur votre machine locale :
+  ```bash
+  git clone https://github.com/abirgmd/3A-SYMFONY-PIDEV-MAKERIA
+  
+  git clone https://github.com/abirgmd/3A-JAVA-PIDEV-MAKERIA
+    cd G_P
+  
+  ```
+---

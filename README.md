@@ -26,14 +26,14 @@ Elle permet aux artistes de publier leurs œuvres et aux utilisateurs de les ach
 
 ## 📚 Table des Matières
 
-- [Installation](#🛠️ Installation)
+- [Installation](#Installation)
 - [Utilisation](#utilisation)
-- [Contributions](#contribution)
+- [Contributions](#Contribution)
 - [Licence](#licence)
 - [Auteurs](#auteurs)
 
 ---
-## 🛠️ Installation
+## Installation
 
 1. Cloner les deux repository :
 
@@ -52,7 +52,7 @@ cd G_P
 
 * Accédez au projet via : http://localhost/phpmyadmin/index.php route=/database/structure&db=pidev
 ---
-# # Utilisation
+## Utilisation
 
 ## 💾​ Installation de PHP
 

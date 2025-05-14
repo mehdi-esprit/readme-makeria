@@ -81,7 +81,7 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
   php ~v
   ```
 ---
-# Contributions
+## Contributions
 
 Nous remercions tous ceux qui ont contribué à ce projet !
 
@@ -98,7 +98,7 @@ Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnali
 
 Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork**, créer une nouvelle branche et soumettre une **pull request**. 
 
-# # Comment contribuer ?
+### Comment contribuer ?
 
 1. **Forkez le projet** : Allez sur la page GitHub du projet et cliquez sur le bouton **Fork** dans le coin supérieur droit pour créer une copie du projet dans votre propre compte GitHub.
 

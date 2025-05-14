@@ -111,3 +111,25 @@ Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork
   
   ```
 ---
+## Licence
+
+Ce projet est sous licence **MIT**. Pour plus de détails, consultez le fichier [LICENSE](./LICENSE).
+
+### Détails sur la licence MIT
+
+La licence MIT est une licence de logiciel libre permissive qui permet une réutilisation du code à condition d'inclure la notice de licence originale.
+
+**Vous êtes autorisé à :**
+- Utiliser le logiciel librement
+- Modifier le logiciel
+- Distribuer des copies
+- Utiliser dans des logiciels propriétaires
+
+**Conditions :**
+- Inclure la notice de licence originale dans toutes les copies
+- Mentionner les modifications apportées
+
+**Exemple de notice à inclure :**
+- MIT License
+- Copyright (c) [année] [nom du détenteur du copyright]
+- Permission is hereby granted...

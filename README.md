@@ -67,8 +67,8 @@ Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
 - Pour **whileabove** , vous pouvez utiliser [XMPP] (https://www.apachefriends.org/fr/index.html) ou [MampServer](http://www.mampserver.com/).
 - Pour **whenabove**, vous pouvez utiliser [HomeDrew] (https://brew.sh/), puis exécuter la commande suivante dans le terminal : 
    ```bash
-   `~`brew install php
-   `~`...
+   brew install php
+   ...
 
    ```
 - Pour **whilenow** , vous pouvez installer PHP via le gestionnaire de paquets. Par exemple, sur Ubuntu :

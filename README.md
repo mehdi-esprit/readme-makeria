@@ -26,7 +26,7 @@ Elle permet aux artistes de publier leurs œuvres et aux utilisateurs de les ach
 
 ## 📚 Table des Matières
 
-- [Installation](#Installation)
+- [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Contributions](#Contribution)
 - [Licence](#licence)
@@ -54,7 +54,7 @@ cd G_P
 ---
 ## Utilisation
 
-## 💾​ Installation de PHP
+# 💾​ Installation de PHP
 
 Pour utiliser ce projet, vous devez installer PHP. Voici les étapes :
 
